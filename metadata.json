@@ -1,0 +1,5 @@
+{
+  "name": "ЖК Патрики - AI Ассистент",
+  "description": "Оффлайн AI чат-бот для ЖК Патрики на базе Ollama Mistral",
+  "requestFramePermissions": []
+}
