@@ -1,7 +1,7 @@
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
+make sure to install the python packages and dependencies
 
 1. Install dependencies:
    `npm install`
@@ -11,3 +11,4 @@
    `npm run dev`
 
    4. server node.js
+
